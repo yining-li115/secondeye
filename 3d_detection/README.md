@@ -1,6 +1,6 @@
 # 3D Detection Pipeline with YOLOE + Depth-Anything-3
 
-This project implements a lightweight 3D detection and reconstruction pipeline by combining **YOLOE** (real-time object detector) and **Depth-Anything-3** (state-of-the-art monocular depth estimation model).
+This project implements a lightweight 3D detection and reconstruction pipeline by combining **[YOLOE](https://github.com/THU-MIG/yoloe)** (real-time object detector) and **[Depth-Anything-3](https://github.com/ByteDance-Seed/Depth-Anything-3)** (state-of-the-art monocular depth estimation model).
 
 The system takes an RGB image as input, detects objects using YOLOE, predicts the depth map using Depth-Anything-3, and fuses them to produce 3D-aware visualizations and simple scene reconstructions. A **FastAPI** server is used to expose the pipeline as a web API.
 

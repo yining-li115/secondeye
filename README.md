@@ -1,8 +1,7 @@
 # Teamname: The Third Eye — Light for every life
 _A Voice-Guided AI Navigation System for Blind & Low-Vision Shoppers_
-_Members: Yiru Li,Xin Meng,Shuaiwei Yu,Haoliang Huang_
 ---
-
+_Members: Yiru Li,Xin Meng,Shuaiwei Yu,Haoliang Huang_
 ## 🏗️ System Overview  
 The Third Eye works as an **end-to-end multimodal pipeline** connecting:
 
